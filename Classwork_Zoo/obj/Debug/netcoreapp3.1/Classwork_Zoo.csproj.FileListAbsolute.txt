@@ -1,0 +1,13 @@
+F:\YURKO\SHAG\Project C#\06_04042021_Lab_Interface\Classwork_Zoo\Classwork_Zoo\bin\Debug\netcoreapp3.1\Classwork_Zoo.exe
+F:\YURKO\SHAG\Project C#\06_04042021_Lab_Interface\Classwork_Zoo\Classwork_Zoo\bin\Debug\netcoreapp3.1\Classwork_Zoo.deps.json
+F:\YURKO\SHAG\Project C#\06_04042021_Lab_Interface\Classwork_Zoo\Classwork_Zoo\bin\Debug\netcoreapp3.1\Classwork_Zoo.runtimeconfig.json
+F:\YURKO\SHAG\Project C#\06_04042021_Lab_Interface\Classwork_Zoo\Classwork_Zoo\bin\Debug\netcoreapp3.1\Classwork_Zoo.runtimeconfig.dev.json
+F:\YURKO\SHAG\Project C#\06_04042021_Lab_Interface\Classwork_Zoo\Classwork_Zoo\bin\Debug\netcoreapp3.1\Classwork_Zoo.dll
+F:\YURKO\SHAG\Project C#\06_04042021_Lab_Interface\Classwork_Zoo\Classwork_Zoo\bin\Debug\netcoreapp3.1\Classwork_Zoo.pdb
+F:\YURKO\SHAG\Project C#\06_04042021_Lab_Interface\Classwork_Zoo\Classwork_Zoo\obj\Debug\netcoreapp3.1\Classwork_Zoo.csprojAssemblyReference.cache
+F:\YURKO\SHAG\Project C#\06_04042021_Lab_Interface\Classwork_Zoo\Classwork_Zoo\obj\Debug\netcoreapp3.1\Classwork_Zoo.AssemblyInfoInputs.cache
+F:\YURKO\SHAG\Project C#\06_04042021_Lab_Interface\Classwork_Zoo\Classwork_Zoo\obj\Debug\netcoreapp3.1\Classwork_Zoo.AssemblyInfo.cs
+F:\YURKO\SHAG\Project C#\06_04042021_Lab_Interface\Classwork_Zoo\Classwork_Zoo\obj\Debug\netcoreapp3.1\Classwork_Zoo.csproj.CoreCompileInputs.cache
+F:\YURKO\SHAG\Project C#\06_04042021_Lab_Interface\Classwork_Zoo\Classwork_Zoo\obj\Debug\netcoreapp3.1\Classwork_Zoo.dll
+F:\YURKO\SHAG\Project C#\06_04042021_Lab_Interface\Classwork_Zoo\Classwork_Zoo\obj\Debug\netcoreapp3.1\Classwork_Zoo.pdb
+F:\YURKO\SHAG\Project C#\06_04042021_Lab_Interface\Classwork_Zoo\Classwork_Zoo\obj\Debug\netcoreapp3.1\Classwork_Zoo.genruntimeconfig.cache
